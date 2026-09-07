@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="fleetGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E293B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#334155;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#fleetGrad)"/>
+  <g fill="#ffffff" opacity="0.1">
+    <rect x="100" y="350" width="140" height="80" rx="12"/>
+    <rect x="280" y="330" width="150" height="90" rx="12"/>
+    <rect x="470" y="360" width="130" height="75" rx="12"/>
+    <rect x="640" y="340" width="120" height="85" rx="12"/>
+  </g>
+  <text x="400" y="300" text-anchor="middle" fill="white" font-size="32" font-family="Inter, sans-serif" font-weight="600" opacity="0.3">EXPORT FLEET</text>
+</svg>

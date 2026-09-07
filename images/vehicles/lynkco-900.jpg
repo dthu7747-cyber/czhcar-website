@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="vgrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E293B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0F172A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#vgrad4)"/>
+  <rect x="150" y="280" width="500" height="85" rx="16" fill="#475569" opacity="0.5"/>
+  <circle cx="220" cy="365" r="35" fill="#64748B"/>
+  <circle cx="580" cy="365" r="35" fill="#64748B"/>
+  <text x="400" y="220" text-anchor="middle" fill="white" font-size="36" font-family="Inter, sans-serif" font-weight="700" opacity="0.4">LYNK&CO 900</text>
+</svg>
